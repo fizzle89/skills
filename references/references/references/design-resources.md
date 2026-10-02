@@ -25,12 +25,20 @@ Free to use. Checked by loading each site on 2026-10-02. License notes come from
 - https://glass.samasante.com - liquid-glass effect. No license found; reference only until checked.
 - https://animejs.com - Anime.js, MIT (verified in repo).
 
+- https://beui.dev - free, open-source animated React/Next.js components (Motion). Has a Pro tier; use free only.
+- https://evilcharts.com - free, open-source animated chart components for shadcn/ui (Recharts). License file is linked on the site (github.com/legions-developer/evilcharts). Use for Pillar dashboards.
+- https://astryx.atmeta.com - Astryx design system, described on its site as open source and customizable. License file not checked; read it before copying.
+- https://kobra.systems - component pages (free section plus a "Get Pro" tier). Use the Free section only; license not checked.
+- https://beautifului.dev - "Beautiful UI" primitives for AI-native interfaces. Loads; license not found. Reference only.
+- https://transitions.dev - UI transition patterns for AI agents. Has a Pro page; license not found. Reference only, free pages only.
+
 ## Assets
 - https://kitbitz.art - 2,000+ free hand-drawn illustrations. Site says CC0.
 - https://3dicons.co - open source and free 3D icons, plus a premium tier. Use only the free set and read its license page.
 
 ## Skipped
 - scrolltide.co - the poster's own paid promo.
+- reverseui.com - premium animated components, paid. Skipped.
 
 ## Rules for Pillar and Tenda pages
 - Start from shadcn/ui, add motion from motion-primitives or Anime.js, and use a gallery for layout reference.
