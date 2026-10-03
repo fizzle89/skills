@@ -1,0 +1,4 @@
+# Reddit mechanics + research gaps (added 10/1)
+Reddit (third-party analyses of the open-sourced hot formula; treat as hypothesis): Hot = log10 of net score + post time / 45000s, so early upvotes matter most and every ~12.5h of age costs as much as 10x the score. Comment ranking favors early, useful replies. Visibility is gated by each subreddit's own rules and karma/age limits, not by the formula. Sources: https://socialboostdigital.com/blog/reddit-ranking-algorithm-2026 , https://indexthread.com/research/reddit-algorithm-visibility
+Our rules in force: value-only comments, no pitch for 2 weeks, disclose affiliation, never pose as a practitioner (r/vciso says practitioners only, no self-promotion).
+Gaps still open: official-source checks for TikTok For You, YouTube Shorts (viewed vs swiped), LinkedIn dwell/video. social-media-marketing lists them as "check account analytics, not hardcoded weights". Needs real analytics once accounts have posts.
